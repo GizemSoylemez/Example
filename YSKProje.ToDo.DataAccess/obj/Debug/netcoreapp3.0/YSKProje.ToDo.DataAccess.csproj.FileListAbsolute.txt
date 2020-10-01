@@ -1,0 +1,13 @@
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.DataAccess\bin\Debug\netcoreapp3.0\YSKProje.ToDo.Entities.dll
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.DataAccess\obj\Debug\netcoreapp3.0\YSKProje.ToDo.DataAccess.csprojAssemblyReference.cache
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.DataAccess\obj\Debug\netcoreapp3.0\YSKProje.ToDo.DataAccess.AssemblyInfoInputs.cache
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.DataAccess\obj\Debug\netcoreapp3.0\YSKProje.ToDo.DataAccess.AssemblyInfo.cs
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.DataAccess\bin\Debug\netcoreapp3.0\YSKProje.ToDo.DataAccess.deps.json
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.DataAccess\bin\Debug\netcoreapp3.0\YSKProje.ToDo.DataAccess.runtimeconfig.json
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.DataAccess\bin\Debug\netcoreapp3.0\YSKProje.ToDo.DataAccess.runtimeconfig.dev.json
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.DataAccess\bin\Debug\netcoreapp3.0\YSKProje.ToDo.DataAccess.dll
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.DataAccess\bin\Debug\netcoreapp3.0\YSKProje.ToDo.DataAccess.pdb
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.DataAccess\bin\Debug\netcoreapp3.0\YSKProje.ToDo.Entities.pdb
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.DataAccess\obj\Debug\netcoreapp3.0\YSKProje.ToDo.DataAccess.csproj.CopyComplete
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.DataAccess\obj\Debug\netcoreapp3.0\YSKProje.ToDo.DataAccess.dll
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.DataAccess\obj\Debug\netcoreapp3.0\YSKProje.ToDo.DataAccess.pdb

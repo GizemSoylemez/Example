@@ -1,0 +1,8 @@
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Entity\bin\Debug\netcoreapp3.0\YSKProje.ToDo.Entities.deps.json
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Entity\bin\Debug\netcoreapp3.0\YSKProje.ToDo.Entities.dll
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Entity\bin\Debug\netcoreapp3.0\YSKProje.ToDo.Entities.pdb
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Entity\obj\Debug\netcoreapp3.0\YSKProje.ToDo.Entities.csprojAssemblyReference.cache
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Entity\obj\Debug\netcoreapp3.0\YSKProje.ToDo.Entities.AssemblyInfoInputs.cache
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Entity\obj\Debug\netcoreapp3.0\YSKProje.ToDo.Entities.AssemblyInfo.cs
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Entity\obj\Debug\netcoreapp3.0\YSKProje.ToDo.Entities.dll
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Entity\obj\Debug\netcoreapp3.0\YSKProje.ToDo.Entities.pdb

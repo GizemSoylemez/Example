@@ -1,0 +1,13 @@
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Web\bin\Debug\netcoreapp3.0\YSKProje.ToDo.Business.deps.json
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Web\bin\Debug\netcoreapp3.0\YSKProje.ToDo.Business.dll
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Web\bin\Debug\netcoreapp3.0\YSKProje.ToDo.Business.pdb
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Web\bin\Debug\netcoreapp3.0\YSKProje.ToDo.DataAccess.dll
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Web\bin\Debug\netcoreapp3.0\YSKProje.ToDo.Entities.dll
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Web\bin\Debug\netcoreapp3.0\YSKProje.ToDo.DataAccess.pdb
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Web\bin\Debug\netcoreapp3.0\YSKProje.ToDo.Entities.pdb
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Web\obj\Debug\netcoreapp3.0\YSKProje.ToDo.Business.csprojAssemblyReference.cache
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Web\obj\Debug\netcoreapp3.0\YSKProje.ToDo.Business.AssemblyInfoInputs.cache
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Web\obj\Debug\netcoreapp3.0\YSKProje.ToDo.Business.AssemblyInfo.cs
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Web\obj\Debug\netcoreapp3.0\YSKProje.ToDo.Business.csproj.CopyComplete
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Web\obj\Debug\netcoreapp3.0\YSKProje.ToDo.Business.dll
+C:\Users\gizem\Desktop\udemyproje\YSKProje.ToDo.DataAccess\YSKProje.ToDo.Web\obj\Debug\netcoreapp3.0\YSKProje.ToDo.Business.pdb
