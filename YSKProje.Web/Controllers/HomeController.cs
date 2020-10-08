@@ -7,6 +7,8 @@ using YSKProje.Web.Models;
 
 namespace YSKProje.Web.Controllers
 {
+    //Route ister burada ister startupun içinde kullanabiliriz
+    //[Route("kisiler/[action]")]
     public class HomeController : Controller
     {
         public IActionResult Index()
@@ -19,16 +21,10 @@ namespace YSKProje.Web.Controllers
             ViewBag.Isim = "Gizem";
             TempData["Isim"] = "Gizem";
             ViewData["Isim"] = "Cennet";
-            return View(new List<MusteriModelView>()
-            {
-                new MusteriModelView(){Ad="Gizem1"},
-                new MusteriModelView(){Ad="Gizem2"},
-                new MusteriModelView(){Ad="Gizem3"},
-                new MusteriModelView(){Ad="Gizem4"},
-                new MusteriModelView(){Ad="Gizem5"}
-            }
-                );
+            return View();
         }
+
+        [Route("kisiler/[action]")]
         public IActionResult Sonuc()
         {
             return View();

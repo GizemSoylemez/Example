@@ -12,8 +12,7 @@ namespace YSKProje.ToDo.DataAccess.Concrete.EfCore.Contextintegrated
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             //database bağlanacak
-            optionsBuilder.UseSqlServer(@"server=DESKTOP-S1LPS5E\SQLEXPRESS; 
-                   database=udemyBlogToDo; integrated security=true;");
+            optionsBuilder.UseSqlServer(@"server=DESKTOP-S1LPS5E\SQLEXPRESS;database=udemyBlogToDo; integrated security=true;");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

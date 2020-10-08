@@ -3,16 +3,19 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-@Html.Partial("_Kategori")
+@*@Html.Partial("_Kategori")*@
 
 <partial name="_Kategori"/>
-    <p>
+    <p class="text-danger lead">
         index actionun control ettiği view
     </p>
 
     <a asp-area="" asp-action="Index" asp-controller="Home" asp-route-id="1">Link</a>
 
+@await Component.InvokeAsync("Urunler")
 
+@*<kategoriList></kategoriList>
+<gizem gelen-data="Başka yazı"></gizem>
 
     <table>
         <tr>
@@ -27,10 +30,10 @@
             <td>TempData["Isim"]</td>
             <td>@TempData["Isim"]</td>
         </tr>
-    </table>
-    <h4>Modelden gelen data</h4>
+    </table>*@
+    @*<h4>Modelden gelen data</h4>
     @foreach (var item in Model)
     {
         <p>@item.Ad</p>
-    }
+    }*@
 

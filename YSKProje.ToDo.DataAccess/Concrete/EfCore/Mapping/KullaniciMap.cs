@@ -14,7 +14,7 @@ namespace YSKProje.ToDo.DataAccess.Concrete.EfCore.Mapping
             builder.HasKey(I => I.Id);
             builder.Property(I => I.Id).UseIdentityColumn();
 
-            builder.Property(I => I.Ad).HasMaxLength(100).IsRequired();
+            builder.Property(I => I.Ad).HasMaxLength(100).IsRequired(); 
 
             builder.Property(I => I.Soyad).HasMaxLength(100).IsRequired(false);
 

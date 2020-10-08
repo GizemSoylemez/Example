@@ -20,7 +20,7 @@ using YSKProje.Web.Models;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"20f2c234a8e4ab17a74be88c6764da892109d967", @"/Views/Shared/_Kategori.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"2c78fb78177d0bb86f5fe4895ea245e28a77f0dc", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"0b52792a015242c47f1320339f6ad9f0b7839325", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared__Kategori : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
