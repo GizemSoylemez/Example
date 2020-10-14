@@ -23,6 +23,7 @@ namespace YSKProje.Web
         {
             //Projeme MVC dahil ediyorum
             services.AddControllersWithViews();
+            services.AddSession();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -33,14 +34,30 @@ namespace YSKProje.Web
                 app.UseDeveloperExceptionPage();
             }
 
+            //app.UseStatusCodePages();//yazýlmayan sayfalara giirnce status code yazsýn
+            app.UseStatusCodePagesWithReExecute("/Home/PageError", "?code={0}");
+
             app.UseStaticFiles();//Bunu kullandýðýmýz da www olaný eriþebilir hale getiririz
 
             app.UseCustomStaticFile();//Middleware olarak açtýðým classýmý burada tanýmlýyorum
             app.UseRouting();
+            app.UseSession();
 
             //localhost/home
             app.UseEndpoints(endpoints =>
             {
+                //Kaç tane aream var ise onlarý buraya tanýmlamam lazým ama bu bana maliteyli olduðu için tek bir þekilde tanýmlayacaðým
+                /*endpoints.MapAreaControllerRoute(
+                    name: "areaAdmin", 
+                    areaName: "Admin",
+                    pattern: "{area}/{controller}/{action}");*/
+                endpoints.MapControllerRoute(
+                    name:"areas",
+                    pattern:"{area}/{controller=Home}/{action=Index}/{id?}"
+                    );
+
+
+
                 //Baþka routerlar yazacaðým ama bunu yazarken her zaman 
                 //kapsayýcý olaný alta alýp diðer routingleri yukarý yazmalýyýz
                 endpoints.MapControllerRoute(
